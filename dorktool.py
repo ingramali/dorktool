@@ -1,6 +1,6 @@
 #Prints a nice little splash screen.
 print "==================="
-print "=---PlagueHax-----="
+print "=---CompNerd03----="
 print "=--2019/04/14-----="
 print "==================="
 print "Used for searching Google dorks."
